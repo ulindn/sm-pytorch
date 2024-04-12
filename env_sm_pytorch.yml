@@ -1,0 +1,15 @@
+name: sm_pytorch
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ipykernel
+  - pip
+  - pytorch
+  - torchvision
+  - sagemaker
+  - docker-py
+  - docker-compose
+  - matplotlib
+  - tensorboard
+  
